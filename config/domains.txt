@@ -11490,6 +11490,10 @@ sbtc.org.sg
 tampines.org.sg
 tptc.org.sg
 
+// Spain Provincial
+itracasa.es
+navarra.es
+
 // Spain Municipal
 madrid.es
 
